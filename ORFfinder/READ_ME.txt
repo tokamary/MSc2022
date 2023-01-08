@@ -18,6 +18,7 @@
 # sequence (by writing 'seq').
 # After that, based on your choice, you need to write the name of the file or your sequence.
 # The program  can reject DNA sequences with degenerative bases and can handle 
-# input with spaces as well as upper/lower case letters. 
-# To excecute it from command line you have to install python 3 and give the commant: python ODSF.py
+# input with spaces, '-', as well as upper/lower case letters. 
+# To excecute it from command line you have to install python 3 and give the command: python ODSF.py
+# Enjoy!
 
