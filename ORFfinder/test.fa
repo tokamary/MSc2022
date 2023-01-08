@@ -1,0 +1,11 @@
+>test1_gabs
+attaattaCGTGCTGCTAtG  GCTaTAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaTGCTGTGCTGACatgGCTTACTCTGTAaA  CTATtTACAtgc
+
+>test2_-andgabs
+aattaa----ttaCGTGCTGCTAtGGCTaTAaaaaaaaaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa--aaaaaTGCTGTGCTGACatgGCTTACTCTGTAaACTATtTACAtgc
+
+>test3_degenerateBases
+aaDattaatFtaCGTGCTGCTAtGGCTaTAaRaaaaa
+
+>test4_noORF
+aaaattaattaCGTGCTGCTAt
